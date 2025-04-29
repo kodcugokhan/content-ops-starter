@@ -12,7 +12,7 @@ sections:
       Yılların bilgi birikimi ve tecrübesi ile önem verdiğiniz fikirlerinizi
       yurt içinde ve yurt dışında korunması için tüm gücümüz ile çalışıyoruz.
     actions:
-      - label: Get started
+      - label: Daha Fazla Bilgi
         altText: ''
         url: /
         showIcon: false
