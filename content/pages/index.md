@@ -139,7 +139,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: hİzmetlerİmİz
+      label: ''
       color: text-primary
       styles:
         self:
