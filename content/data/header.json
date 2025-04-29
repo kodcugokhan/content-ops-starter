@@ -93,7 +93,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "İletişim",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
