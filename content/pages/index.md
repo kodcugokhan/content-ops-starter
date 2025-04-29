@@ -43,7 +43,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Patent Tescil İşlemleri
+      text: Hizmetlerimiz
       color: text-dark
       styles:
         self:
