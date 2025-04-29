@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Fikriniz Bizim İle
+      text: Fikriniz Bizim İle Güvende
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
